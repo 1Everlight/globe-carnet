@@ -17,6 +17,12 @@ export interface HistoricalEvent {
     mediaIds?: string[]
 }
 
+export interface Tradition {
+    id: string
+    title: string
+    description: string
+}
+
 
 export interface Country {
     id: string
@@ -27,7 +33,7 @@ export interface Country {
     topAttractions: string[]
     media: MediaItem[]
     history: HistoricalEvent[]
-    traditions: { text: string; mediaIds: string[] }[]
+    traditions: Tradition[]
     lifestyle: { description: string; visualIds: string[] }
     createdAt: string
     lastEditedAt?: string

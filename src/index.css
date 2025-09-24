@@ -1,11 +1,16 @@
-@import "tailwindcss/preflight";  /* reset et styles de base */
-@import "tailwindcss/theme";      /* couleurs, spacing, etc. */
-@import "tailwindcss/utilities";  /* toutes les classes utilitaires */
+@import "tailwindcss/preflight"; /* reset et styles de base */
+@import "tailwindcss/theme"; /* couleurs, spacing, etc. */
+@import "tailwindcss/utilities"; /* toutes les classes utilitaires */
 
 
 
-html, body, #root { height: 100%; }
+html,
+body,
+#root {
+  height: 100%;
+}
 
+.container {
+  @apply max-w-6xl mx-auto px-4;
+}
 
-
-.container { @apply max-w-6xl mx-auto px-4; }
