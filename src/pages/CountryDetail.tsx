@@ -52,9 +52,21 @@ export default function CountryDetail() {
                         <p className="text-gray-200">{c.region} · {c.isoCode || ''}</p>
                         <p className="leading-relaxed">{c.summary}</p>
 
-                        {/* Lieux touristiques */}
+                        {/* 🌍 Lieux touristiques */}
+                        {c.topAttractions && c.topAttractions.length > 0 && (
+                            <section>
+                                <h2 className="font-semibold text-xl text-sky-300">Lieux touristiques</h2>
+                                <ul className="mt-3 list-disc list-inside space-y-1">
+                                    {c.topAttractions.map((place, i) => (
+                                        <li key={i} className="text-gray-200">{place}</li>
+                                    ))}
+                                </ul>
+                            </section>
+                        )}
+
+                        {/* 📸 Médias */}
                         <section>
-                            <h2 className="font-semibold text-xl text-sky-300">Lieux touristiques</h2>
+                            <h2 className="font-semibold text-xl text-sky-300">Galerie</h2>
                             <div className="mt-3 grid grid-cols-1 md:grid-cols-3 gap-3">
                                 {c.media.filter(m => m.type === 'image').map(img => (
                                     <div key={img.id} className="relative group cursor-pointer">
@@ -78,7 +90,7 @@ export default function CountryDetail() {
                             </div>
                         </section>
 
-                        {/* Histoire */}
+                        {/* 📜 Histoire */}
                         <section>
                             <h2 className="font-semibold text-xl text-sky-300">Histoire</h2>
                             <div className="mt-3 space-y-4">
@@ -92,7 +104,7 @@ export default function CountryDetail() {
                             </div>
                         </section>
 
-                        {/* Traditions */}
+                        {/* 🎭 Traditions */}
                         <section>
                             <h2 className="font-semibold text-xl text-sky-300">Traditions & coutumes</h2>
                             <div className="mt-3 space-y-3">
@@ -105,7 +117,7 @@ export default function CountryDetail() {
                             </div>
                         </section>
 
-                        {/* Mode de vie */}
+                        {/* 👥 Mode de vie */}
                         <section>
                             <h2 className="font-semibold text-xl text-sky-300">Mode de vie</h2>
                             <p className="mt-2">{c.lifestyle.description}</p>

@@ -54,14 +54,12 @@
             }
         ],
         "lifestyle": {
-            "description": "Une vie marquée par l’agriculture, les marchés, les traditions animistes, les langues locales (Ewé, Kabiyè…), et une forte convivialité communautaire.",
+            "description": "Le Togo offre une vie communautaire chaleureuse, marquée par l’hospitalité, la solidarité et la richesse culturelle des traditions. Les marchés animés, la diversité linguistique et la convivialité des familles renforcent le sentiment d’appartenance. L’agriculture et le commerce local constituent les bases de l’économie quotidienne. Cependant, de nombreux habitants font face à des difficultés liées au chômage, à la pauvreté et à l’accès limité aux infrastructures modernes. Le système de santé et d’éducation reste fragile, en particulier dans les zones rurales. Malgré les efforts, les inégalités sociales freinent encore l’amélioration durable de la qualité de vie.",
             "visualIds": [
-                "https://imgs.search.brave.com/8ERV6-u6YXwTEq2EnpgqK0D_f9Wy9CNzczH5CfY_h2I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dG9nb2ZpcnN0LmNv/bS9tZWRpYS9rMi9p/dGVtcy9jYWNoZS8w/NjM4OTIwMTgwODM3/NGIxYTEzOWUxOTIz/NTMxMTM5Y19MLmpw/Zw",
-                "https://imgs.search.brave.com/ZikkZIGJZ3E2xVQWzdQMzLK5yHLDw0ABIlgWYzTWeGw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNjc4/NTczNjAwL3Bob3Rv/L3N0cmVldC1tYXJr/ZXQtbG9tZS10b2dv/LWFmcmljYS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9UHI1/d2VUUXBLZENCV0Rn/Uy1XaWlBbjBsa3pu/UHIzc3Z1OXB3SnBY/VmJqST0"
+                "https://imgs.search.brave.com/feYOmiCsOa8A_dnuOR4mCSNd0ClkTrqIBuUASA2wQ7g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM5/MTY4NTE4Ni9mci9w/aG90by9mbGFnLW9m/LXRvZ28uanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPTRNUXBy/bk1Bd3FDRkJGcF9W/LXFYLTVjWlFXQW9m/SzZISXJ6dE9yQzFJ/Ukk9"
             ]
         },
-        "createdAt": "2025-09-25T00:00:00Z",
-        "lastEditedAt": "2025-09-25T00:00:00Z"
+        "createdAt": "2025-09-25T00:00:00Z"
     },
     {
         "id": "NG",
@@ -300,7 +298,7 @@
             {
                 "id": "KE_media1",
                 "type": "image",
-                "url": "https://imgs.search.brave.com/-t7JI-F5mAXkDRsUyGDDkAc8X088_JpNZjcMFGKuiOI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTA5/MTY0ODIyNC9mci92/ZWN0b3JpZWwvZHJh/cGVhdS1kdS1rZW55/YS5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9TFJ1TEV1X0xM/aUJVdHlQc0JlMmJv/Q09GNUNyeDFiMnZY/SHFFd0NEbTRVST0",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
                 "caption": "Drapeau du Kenya"
             }
         ],
@@ -322,7 +320,7 @@
         "lifestyle": {
             "description": "Vie communautaire, musique Benga, cuisine à base de maïs et de légumes.",
             "visualIds": [
-                "https://imgs.search.brave.com/tD32JGQombaqmxNM9rxkHkolS6jcAjqX8CGGYcePpts/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjM5/NDcyNDY2L3Bob3Rv/L2NpdHktY2VudGVy/LW9mLW1vbWJhc2Et/a2VueWEuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPUNlTVZa/aVNFeUVKeFY0amY1/bVB3Y3NlV1hEamd6/VzhhNjR6bkdQMm1M/VVk9"
+                "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg"
             ]
         },
         "createdAt": "2025-09-25T00:00:00Z"
@@ -455,6 +453,94 @@
             "description": "Un mélange entre vie moderne à Dakar et traditions dans les régions. Cuisine renommée avec le thiéboudiène, sport national (la lutte sénégalaise) et ambiance musicale omniprésente.",
             "visualIds": [
                 "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg"
+            ]
+        },
+        "createdAt": "2025-09-25T00:00:00Z"
+    },
+    {
+        "id": "JP",
+        "name": "Japon",
+        "isoCode": "JP",
+        "region": "Asie de l'Est",
+        "summary": "Le Japon est un archipel moderne et traditionnel, célèbre pour sa technologie avancée, sa culture ancestrale et ses paysages variés.",
+        "topAttractions": [
+            "Mont Fuji",
+            "Temple Senso-ji à Tokyo",
+            "Kyoto et ses temples",
+            "Château d’Himeji",
+            "Hiroshima Peace Memorial"
+        ],
+        "media": [
+            {
+                "id": "JP_media1",
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+                "caption": "Drapeau du Japon"
+            }
+        ],
+        "history": [
+            {
+                "id": "JP_hist1",
+                "year": 1945,
+                "title": "Fin de la Seconde Guerre mondiale",
+                "description": "Après Hiroshima et Nagasaki, le Japon amorce sa reconstruction et devient une puissance économique mondiale."
+            }
+        ],
+        "traditions": [
+            {
+                "id": "JP_trad1",
+                "title": "Cérémonie du thé",
+                "description": "Un rituel esthétique et spirituel symbolisant la simplicité et l’harmonie."
+            }
+        ],
+        "lifestyle": {
+            "description": "Vie marquée par la modernité urbaine et la préservation des traditions. Cuisine réputée (sushi, ramen), discipline, respect et innovation technologique.",
+            "visualIds": [
+                "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"
+            ]
+        },
+        "createdAt": "2025-09-25T00:00:00Z"
+    },
+    {
+        "id": "BR",
+        "name": "Brésil",
+        "isoCode": "BR",
+        "region": "Amérique du Sud",
+        "summary": "Le Brésil est un immense pays d’Amérique du Sud connu pour sa diversité culturelle, l’Amazonie, le football et le carnaval de Rio.",
+        "topAttractions": [
+            "Statue du Christ Rédempteur à Rio",
+            "Chutes d’Iguaçu",
+            "Amazonie",
+            "Plages de Copacabana",
+            "Salvador de Bahia"
+        ],
+        "media": [
+            {
+                "id": "BR_media1",
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+                "caption": "Drapeau du Brésil"
+            }
+        ],
+        "history": [
+            {
+                "id": "BR_hist1",
+                "year": 1822,
+                "title": "Indépendance",
+                "description": "Le Brésil déclare son indépendance du Portugal le 7 septembre 1822."
+            }
+        ],
+        "traditions": [
+            {
+                "id": "BR_trad1",
+                "title": "Carnaval de Rio",
+                "description": "Un festival coloré et musical rassemblant des millions de personnes chaque année."
+            }
+        ],
+        "lifestyle": {
+            "description": "Vie animée et festive, importance du football, de la samba et de la convivialité. Mélange de cultures et gastronomie riche (feijoada, churrasco).",
+            "visualIds": [
+                "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
             ]
         },
         "createdAt": "2025-09-25T00:00:00Z"
