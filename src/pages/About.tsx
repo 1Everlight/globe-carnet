@@ -21,7 +21,7 @@ export default function About() {
                 <section className="bg-white/20 backdrop-blur-md rounded-xl p-6 shadow-lg text-white">
                     <h2 className="text-2xl font-bold mb-3 text-indigo-200">L’application</h2>
                     <p>
-                        <strong>GlobeCarnet</strong> est un projet que j’ai imaginé comme un carnet de voyage numérique.
+                        <strong>GlobeCarnet</strong> est un projet que j’ai imaginé comme un carnet numérique.
                         L’idée est simple : permettre à chacun d’explorer, documenter et partager des informations
                         sur les pays du monde entier. Pas besoin de serveur : tout est stocké localement,
                         directement dans ton navigateur.
