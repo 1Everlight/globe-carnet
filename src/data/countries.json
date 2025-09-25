@@ -1,0 +1,462 @@
+[
+    {
+        "id": "TG",
+        "name": "Togo",
+        "isoCode": "TG",
+        "region": "Afrique de l'Ouest",
+        "summary": "Le Togo est un petit pays de l'Afrique de l'Ouest bordé par le Ghana, le Bénin et le Burkina Faso, avec une côte sur le Golfe de Guinée. Capitale : Lomé.",
+        "topAttractions": [
+            "Koutammakou (site UNESCO)",
+            "Parc national Fazao-Malfakassa",
+            "Monument de l'Indépendance, Lomé",
+            "Marché de Lomé (Grand Marché)",
+            "Cathédrale du Sacré-Cœur de Lomé",
+            "Cascade Kamalo"
+        ],
+        "media": [
+            {
+                "id": "TG_media1",
+                "type": "image",
+                "url": "https://imgs.search.brave.com/feYOmiCsOa8A_dnuOR4mCSNd0ClkTrqIBuUASA2wQ7g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM5/MTY4NTE4Ni9mci9w/aG90by9mbGFnLW9m/LXRvZ28uanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPTRNUXBy/bk1Bd3FDRkJGcF9W/LXFYLTVjWlFXQW9m/SzZISXJ6dE9yQzFJ/Ukk9",
+                "caption": "Drapeau du Togo"
+            },
+            {
+                "id": "TG_media2",
+                "type": "image",
+                "url": "https://imgs.search.brave.com/LZBgB8KPtH7ryk1141-gKyZwncYFvyC0XrWdM_tBnZY/rs:fit:500:0:1:0/g:ce/aHR0cDovL2ltZy5v/dmVyLWJsb2cta2l3/aS5jb20vMC81Ni82/Mi82Ni8yMDE2MDMw/NC9vYl9jN2M0YTdf/dGF0YS1hLWtvdWFi/YS5qcGc",
+                "caption": "Maisons traditionnelles à Koutammakou"
+            }
+        ],
+        "history": [
+            {
+                "id": "TG_hist1",
+                "year": 1884,
+                "title": "Colonisation allemande",
+                "description": "L’Allemagne établit un protectorat sur la région connue sous le nom de Togoland."
+            },
+            {
+                "id": "TG_hist2",
+                "year": 1960,
+                "title": "Indépendance",
+                "description": "Le Togo devient indépendant de la France le 27 avril 1960."
+            }
+        ],
+        "traditions": [
+            {
+                "id": "TG_trad1",
+                "title": "Architecture Batammariba",
+                "description": "À Koutammakou, les maisons en terre des Batammariba (takienta) sont construites selon des modèles symboliques."
+            },
+            {
+                "id": "TG_trad2",
+                "title": "Marché des fétiches d’Akodessewa",
+                "description": "Marché où sont vendus objets, herbes et éléments liés aux pratiques spirituelles traditionnelles."
+            }
+        ],
+        "lifestyle": {
+            "description": "Une vie marquée par l’agriculture, les marchés, les traditions animistes, les langues locales (Ewé, Kabiyè…), et une forte convivialité communautaire.",
+            "visualIds": [
+                "https://imgs.search.brave.com/8ERV6-u6YXwTEq2EnpgqK0D_f9Wy9CNzczH5CfY_h2I/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dG9nb2ZpcnN0LmNv/bS9tZWRpYS9rMi9p/dGVtcy9jYWNoZS8w/NjM4OTIwMTgwODM3/NGIxYTEzOWUxOTIz/NTMxMTM5Y19MLmpw/Zw",
+                "https://imgs.search.brave.com/ZikkZIGJZ3E2xVQWzdQMzLK5yHLDw0ABIlgWYzTWeGw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNjc4/NTczNjAwL3Bob3Rv/L3N0cmVldC1tYXJr/ZXQtbG9tZS10b2dv/LWFmcmljYS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9UHI1/d2VUUXBLZENCV0Rn/Uy1XaWlBbjBsa3pu/UHIzc3Z1OXB3SnBY/VmJqST0"
+            ]
+        },
+        "createdAt": "2025-09-25T00:00:00Z",
+        "lastEditedAt": "2025-09-25T00:00:00Z"
+    },
+    {
+        "id": "NG",
+        "name": "Nigeria",
+        "isoCode": "NG",
+        "region": "Afrique de l'Ouest",
+        "summary": "Le Nigeria est le pays le plus peuplé d'Afrique, riche en diversité culturelle et en ressources naturelles.",
+        "topAttractions": [
+            "Parc national de Yankari",
+            "Lagos",
+            "Abuja",
+            "Parc national de Kainji",
+            "Gorges de Gurara"
+        ],
+        "media": [
+            {
+                "id": "NG_media1",
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+                "caption": "Drapeau du Nigeria"
+            }
+        ],
+        "history": [
+            {
+                "id": "NG_hist1",
+                "year": 1960,
+                "title": "Indépendance",
+                "description": "Le Nigeria obtient son indépendance du Royaume-Uni."
+            }
+        ],
+        "traditions": [
+            {
+                "id": "NG_trad1",
+                "title": "Cérémonies de mariage",
+                "description": "Les mariages traditionnels varient selon les ethnies, avec des rites spécifiques."
+            }
+        ],
+        "lifestyle": {
+            "description": "Vie urbaine dynamique, musique Afrobeat, cuisine épicée.",
+            "visualIds": [
+                "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+            ]
+        },
+        "createdAt": "2025-09-25T00:00:00Z"
+    },
+    {
+        "id": "GH",
+        "name": "Ghana",
+        "isoCode": "GH",
+        "region": "Afrique de l'Ouest",
+        "summary": "Le Ghana est un pays d'Afrique de l'Ouest connu pour ses plages, ses parcs nationaux et son héritage historique.",
+        "topAttractions": [
+            "Parc national de Kakum",
+            "Fort d'Elmina",
+            "Accra",
+            "Parc national de Mole",
+            "Lac Volta"
+        ],
+        "media": [
+            {
+                "id": "GH_media1",
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+                "caption": "Drapeau du Ghana"
+            }
+        ],
+        "history": [
+            {
+                "id": "GH_hist1",
+                "year": 1957,
+                "title": "Indépendance",
+                "description": "Le Ghana devient le premier pays d'Afrique subsaharienne à obtenir son indépendance."
+            }
+        ],
+        "traditions": [
+            {
+                "id": "GH_trad1",
+                "title": "Danses traditionnelles",
+                "description": "Les danses comme le Adowa et le Agbadza sont essentielles dans les cérémonies."
+            }
+        ],
+        "lifestyle": {
+            "description": "Vie communautaire, musique, danse et cuisine variée.",
+            "visualIds": [
+                "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg"
+            ]
+        },
+        "createdAt": "2025-09-25T00:00:00Z"
+    },
+    {
+        "id": "CI",
+        "name": "Côte d'Ivoire",
+        "isoCode": "CI",
+        "region": "Afrique de l'Ouest",
+        "summary": "La Côte d'Ivoire est un pays d'Afrique de l'Ouest connu pour son cacao, ses plages, ses traditions culturelles et sa capitale économique Abidjan.",
+        "topAttractions": [
+            "Basilique Notre-Dame de la Paix (Yamoussoukro)",
+            "Parc national de Taï",
+            "Grand-Bassam",
+            "Abidjan et sa lagune Ébrié",
+            "Man et ses montagnes"
+        ],
+        "media": [
+            {
+                "id": "CI_media1",
+                "type": "image",
+                "url": "https://imgs.search.brave.com/VNBeBC5MyRe0orKEMwqokXSrgNDNxKGhCUBef5CbWtM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3cy4xMjNyZi5j/b20vaW1hZ2VzL3Jl/Y3N0b2NrZm9vdGFn/ZS9yZWNzdG9ja2Zv/b3RhZ2UyMTA0L3Jl/Y3N0b2NrZm9vdGFn/ZTIxMDQwMDE0Mi8x/Njc2MTEyNDEtaXZv/cmlhLWZsYWctd2F2/aW5nLWluLXRoZS13/aW5kLWNsb3NlLXVw/LW9mLWl2b3J5LWNv/YXN0LWJhbm5lci1i/bG93aW5nLXNvZnQt/YW5kLXNtb290aC1z/aWxrLWNsb3RoLmpw/Zw",
+                "caption": "Drapeau de la Côte d'Ivoire"
+            }
+        ],
+        "history": [
+            {
+                "id": "CI_hist1",
+                "year": 1960,
+                "title": "Indépendance",
+                "description": "La Côte d'Ivoire obtient son indépendance de la France le 7 août 1960, avec Félix Houphouët-Boigny comme premier président."
+            }
+        ],
+        "traditions": [
+            {
+                "id": "CI_trad1",
+                "title": "Fêtes et danses traditionnelles",
+                "description": "Les danses comme le Zaouli (danses des Gouro) et les masques Baoulé sont emblématiques de la culture ivoirienne."
+            }
+        ],
+        "lifestyle": {
+            "description": "Vie urbaine dynamique à Abidjan, traditions fortes dans les régions, cuisine réputée avec l'attiéké, l'alloco et les plats à base de poisson et de viande.",
+            "visualIds": [
+                "https://imgs.search.brave.com/A7yUQg9Wcv5T0db5Zncf9_gc0s9uNKLkKl71Of-N0AQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9sZXB0/aXRyZXBvcnRlci5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDEvYWJpZGou/anBn"
+            ]
+        },
+        "createdAt": "2025-09-25T00:00:00Z"
+    },
+    {
+        "id": "ZA",
+        "name": "Afrique du Sud",
+        "isoCode": "ZA",
+        "region": "Afrique australe",
+        "summary": "L'Afrique du Sud offre une diversité de paysages, de cultures et d'activités, des safaris aux plages.",
+        "topAttractions": [
+            "Table Mountain",
+            "Parc national Kruger",
+            "Le Cap",
+            "Route des Jardins",
+            "Île de Robben"
+        ],
+        "media": [
+            {
+                "id": "ZA_media1",
+                "type": "image",
+                "url": "https://imgs.search.brave.com/nIWuecd-1jT-lIayZw7z63dGL_3UDkhJHo6uqbZJ8ro/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNy8w/NS8wNy8xNS8wOC9m/bGFnLTIyOTI2ODVf/NjQwLnBuZw",
+                "caption": "Drapeau de l'Afrique du Sud"
+            }
+        ],
+        "history": [
+            {
+                "id": "ZA_hist1",
+                "year": 1994,
+                "title": "Fin de l'apartheid",
+                "description": "Nelson Mandela devient le premier président noir du pays."
+            }
+        ],
+        "traditions": [
+            {
+                "id": "ZA_trad1",
+                "title": "Danses traditionnelles",
+                "description": "Les danses comme le Indlamu sont exécutées lors des cérémonies."
+            }
+        ],
+        "lifestyle": {
+            "description": "Vie en plein air, sports, cuisine variée influencée par les cultures indigènes et européennes.",
+            "visualIds": [
+                "https://imgs.search.brave.com/PAgES_cw_vO02vGrncuyJC5odPHVpwxFL0_Yn-0dbyQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3RmYXNzZXRz/Lm5ldC9yYzNkbHhh/cG51NmsvMjJlT1VJ/d3hTZzFCaFFUZ0RX/RHZpcy9iYmE5NWY2/NGU4ZTI2Mjg1Njc4/ZjJiZDQzZTRkZjkz/ZS9EaWVfVW5pb24t/R2ViYV9fdWRlX2lu/X1ByZXRvcmlhX19T/dV9fZGFmcmlrYV8u/anBnP3c9Mzg0MCZx/PTUwJmZtPXdlYnA"
+            ]
+        },
+        "createdAt": "2025-09-25T00:00:00Z"
+    },
+    {
+        "id": "EG",
+        "name": "Égypte",
+        "isoCode": "EG",
+        "region": "Afrique du Nord",
+        "summary": "L'Égypte est un carrefour entre l'Afrique et le Moyen-Orient, riche en histoire ancienne et en culture.",
+        "topAttractions": [
+            "Pyramides de Gizeh",
+            "Musée égyptien du Caire",
+            "Nile Crocodile Sanctuary",
+            "Temple de Karnak",
+            "Abu Simbel"
+        ],
+        "media": [
+            {
+                "id": "EG_media1",
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+                "caption": "Drapeau de l'Égypte"
+            }
+        ],
+        "history": [
+            {
+                "id": "EG_hist1",
+                "year": -3100,
+                "title": "Unification de l'Égypte",
+                "description": "Le roi Narmer unifie la Haute et la Basse Égypte."
+            }
+        ],
+        "traditions": [
+            {
+                "id": "EG_trad1",
+                "title": "Fête de Sham el-Nessim",
+                "description": "Célébration du printemps avec des pique-niques et des œufs colorés."
+            }
+        ],
+        "lifestyle": {
+            "description": "Vie le long du Nil, cuisine à base de légumineuses, musique traditionnelle.",
+            "visualIds": [
+                "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+            ]
+        },
+        "createdAt": "2025-09-25T00:00:00Z"
+    },
+    {
+        "id": "KE",
+        "name": "Kenya",
+        "isoCode": "KE",
+        "region": "Afrique de l'Est",
+        "summary": "Le Kenya est renommé pour ses paysages variés, sa faune abondante et ses plages idylliques.",
+        "topAttractions": [
+            "Réserve nationale du Masai Mara",
+            "Mont Kenya",
+            "Lamu",
+            "Plage de Diani",
+            "Parc national d'Amboseli"
+        ],
+        "media": [
+            {
+                "id": "KE_media1",
+                "type": "image",
+                "url": "https://imgs.search.brave.com/-t7JI-F5mAXkDRsUyGDDkAc8X088_JpNZjcMFGKuiOI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTA5/MTY0ODIyNC9mci92/ZWN0b3JpZWwvZHJh/cGVhdS1kdS1rZW55/YS5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9TFJ1TEV1X0xM/aUJVdHlQc0JlMmJv/Q09GNUNyeDFiMnZY/SHFFd0NEbTRVST0",
+                "caption": "Drapeau du Kenya"
+            }
+        ],
+        "history": [
+            {
+                "id": "KE_hist1",
+                "year": 1963,
+                "title": "Indépendance",
+                "description": "Le Kenya devient indépendant du Royaume-Uni."
+            }
+        ],
+        "traditions": [
+            {
+                "id": "KE_trad1",
+                "title": "Cérémonie de passage à l'âge adulte",
+                "description": "Rites de passage chez les Kikuyu marquant l'entrée dans l'âge adulte."
+            }
+        ],
+        "lifestyle": {
+            "description": "Vie communautaire, musique Benga, cuisine à base de maïs et de légumes.",
+            "visualIds": [
+                "https://imgs.search.brave.com/tD32JGQombaqmxNM9rxkHkolS6jcAjqX8CGGYcePpts/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjM5/NDcyNDY2L3Bob3Rv/L2NpdHktY2VudGVy/LW9mLW1vbWJhc2Et/a2VueWEuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPUNlTVZa/aVNFeUVKeFY0amY1/bVB3Y3NlV1hEamd6/VzhhNjR6bkdQMm1M/VVk9"
+            ]
+        },
+        "createdAt": "2025-09-25T00:00:00Z"
+    },
+    {
+        "id": "TZ",
+        "name": "Tanzanie",
+        "isoCode": "TZ",
+        "region": "Afrique de l'Est",
+        "summary": "La Tanzanie est un pays d’Afrique de l’Est réputé pour ses safaris, le mont Kilimandjaro, et l’île paradisiaque de Zanzibar.",
+        "topAttractions": [
+            "Mont Kilimandjaro",
+            "Parc national du Serengeti",
+            "Cratère du Ngorongoro",
+            "Île de Zanzibar",
+            "Lac Tanganyika"
+        ],
+        "media": [
+            {
+                "id": "TZ_media1",
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+                "caption": "Drapeau de la Tanzanie"
+            }
+        ],
+        "history": [
+            {
+                "id": "TZ_hist1",
+                "year": 1964,
+                "title": "Union de la Tanzanie",
+                "description": "Tanganyika et Zanzibar fusionnent pour former la République-Unie de Tanzanie."
+            }
+        ],
+        "traditions": [
+            {
+                "id": "TZ_trad1",
+                "title": "Danses traditionnelles et musique Taarab",
+                "description": "Les danses locales et la musique Taarab de Zanzibar reflètent l’influence africaine, arabe et indienne."
+            }
+        ],
+        "lifestyle": {
+            "description": "La vie tanzanienne est rythmée par la pêche, l’agriculture, les marchés colorés et une culture d’hospitalité. Le Swahili est la langue de cohésion nationale.",
+            "visualIds": [
+                "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg"
+            ]
+        },
+        "createdAt": "2025-09-25T00:00:00Z"
+    },
+    {
+        "id": "UG",
+        "name": "Ouganda",
+        "isoCode": "UG",
+        "region": "Afrique de l'Est",
+        "summary": "L’Ouganda est un pays d’Afrique de l’Est surnommé la « perle de l’Afrique » pour ses paysages variés, ses lacs, ses montagnes et sa riche biodiversité.",
+        "topAttractions": [
+            "Parc national des gorilles de Bwindi",
+            "Chutes de Murchison",
+            "Lac Victoria",
+            "Mont Elgon",
+            "Parc national Queen Elizabeth"
+        ],
+        "media": [
+            {
+                "id": "UG_media1",
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+                "caption": "Drapeau de l’Ouganda"
+            }
+        ],
+        "history": [
+            {
+                "id": "UG_hist1",
+                "year": 1962,
+                "title": "Indépendance",
+                "description": "L’Ouganda obtient son indépendance du Royaume-Uni le 9 octobre 1962."
+            }
+        ],
+        "traditions": [
+            {
+                "id": "UG_trad1",
+                "title": "Danses et coutumes locales",
+                "description": "Chaque ethnie a ses danses traditionnelles, souvent accompagnées de tambours, reflétant la richesse culturelle du pays."
+            }
+        ],
+        "lifestyle": {
+            "description": "La vie ougandaise est marquée par la convivialité, l’importance de la musique et de la danse, et une gastronomie centrée sur les produits locaux comme le matoke (banane plantain).",
+            "visualIds": [
+                "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg"
+            ]
+        },
+        "createdAt": "2025-09-25T00:00:00Z"
+    },
+    {
+        "id": "SN",
+        "name": "Sénégal",
+        "isoCode": "SN",
+        "region": "Afrique de l'Ouest",
+        "summary": "Le Sénégal est un pays d'Afrique de l'Ouest réputé pour sa stabilité, sa richesse culturelle, ses plages, et son rôle de carrefour historique et musical.",
+        "topAttractions": [
+            "Île de Gorée",
+            "Lac Rose (Lac Retba)",
+            "Parc national du Niokolo-Koba",
+            "Dakar et l'île de Ngor",
+            "Saint-Louis"
+        ],
+        "media": [
+            {
+                "id": "SN_media1",
+                "type": "image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
+                "caption": "Drapeau du Sénégal"
+            }
+        ],
+        "history": [
+            {
+                "id": "SN_hist1",
+                "year": 1960,
+                "title": "Indépendance",
+                "description": "Le Sénégal obtient son indépendance de la France le 4 avril 1960. Léopold Sédar Senghor en devient le premier président."
+            }
+        ],
+        "traditions": [
+            {
+                "id": "SN_trad1",
+                "title": "Teranga et culture musicale",
+                "description": "Le Sénégal est célèbre pour l’hospitalité (Teranga), la musique mbalax popularisée par Youssou N’Dour, et les danses traditionnelles."
+            }
+        ],
+        "lifestyle": {
+            "description": "Un mélange entre vie moderne à Dakar et traditions dans les régions. Cuisine renommée avec le thiéboudiène, sport national (la lutte sénégalaise) et ambiance musicale omniprésente.",
+            "visualIds": [
+                "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg"
+            ]
+        },
+        "createdAt": "2025-09-25T00:00:00Z"
+    }
+]

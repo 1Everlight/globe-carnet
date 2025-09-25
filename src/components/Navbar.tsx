@@ -1,21 +1,13 @@
 import { Link, NavLink } from 'react-router-dom'
-import { useEffect, useState } from 'react'
+
 
 export default function Navbar() {
-    const [theme, setTheme] = useState<'light' | 'dark'>('light')
 
-    useEffect(() => {
-        // Applique le thème sur le <html>
-        document.documentElement.classList.remove('light', 'dark')
-        document.documentElement.classList.add(theme)
-    }, [theme])
 
-    function toggleTheme() {
-        setTheme(prev => (prev === 'light' ? 'dark' : 'light'))
-    }
+
 
     return (
-        <header className="bg-gradient-to-r from-sky-600 to-indigo-700 text-white">
+        <header className="bg-gradient-to-r from-blue-700 to-indigo-800 text-white">
             <div className="container flex items-center justify-between py-4">
                 <Link to="/" className="font-bold text-xl">GlobeCarnet</Link>
 
@@ -26,12 +18,7 @@ export default function Navbar() {
                     <NavLink to="/about" className={({ isActive }) => isActive ? 'underline' : ''}>À propos</NavLink>
                 </nav>
 
-                <button
-                    onClick={toggleTheme}
-                    className="ml-4 px-3 py-2 bg-white text-black rounded"
-                >
-                    {theme === 'light' ? '🌙 Mode sombre' : '☀️ Mode clair'}
-                </button>
+                
             </div>
         </header>
     )
