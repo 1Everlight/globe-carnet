@@ -36,7 +36,7 @@ export default function About() {
                 <section className="bg-white/20 backdrop-blur-md rounded-xl p-6 shadow-lg text-white">
                     <h2 className="text-2xl font-bold mb-3 text-indigo-200">Qui suis-je ?</h2>
                     <p>
-                        Je m’appelle <strong>Fadèle</strong>, étudiant à l’<em>IAI Togo</em>.
+                        Je m’appelle <strong>TCHAGAFOU Fadèle</strong>, étudiant à l’<em>IAI Togo</em>.
                         Passionné par la tech, le design et l’exploration des cultures,
                         j’ai voulu créer une application qui mélange code, créativité et ouverture au monde.
                     </p>

@@ -159,13 +159,7 @@ export default function CountryDetail() {
                         </div>
                     </div>
 
-                    <aside className="w-80">
-                        <div className="p-4 bg-white/20 backdrop-blur-md rounded-lg shadow text-white">
-                            <h3 className="font-semibold text-sky-300">Infos</h3>
-                            <p className="text-sm mt-2">Créé: {new Date(c.createdAt).toLocaleString()}</p>
-                            <p className="text-sm">Dernière modif: {c.lastEditedAt ? new Date(c.lastEditedAt).toLocaleString() : '—'}</p>
-                        </div>
-                    </aside>
+                    
                 </div>
             </div>
 

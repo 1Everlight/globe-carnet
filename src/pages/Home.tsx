@@ -40,12 +40,18 @@ export default function Home() {
                         Lance-toi dans ton propre voyage et crée ton carnet des pays du monde, un espace unique où chaque découverte devient une page de ton histoire.
                     </motion.p>
 
-
-                    <div className="mt-6">
-                        <Link to="/countries" className="inline-block bg-white text-indigo-700 px-6 py-3 rounded-md font-semibold">
+                    {/* Boutons responsive */}
+                    <div className="mt-6 flex flex-col sm:flex-row gap-3 sm:gap-4">
+                        <Link
+                            to="/countries"
+                            className="bg-white text-indigo-700 px-6 py-3 rounded-md font-semibold text-center"
+                        >
                             Explorer les pays
                         </Link>
-                        <Link to="/add" className="ml-4 inline-block bg-transparent border border-white px-5 py-3 rounded-md">
+                        <Link
+                            to="/add"
+                            className="bg-transparent border border-white px-5 py-3 rounded-md text-center"
+                        >
                             Ajouter un pays
                         </Link>
                     </div>
